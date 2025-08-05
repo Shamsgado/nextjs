@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "favlinks",
   "version": "0.1.0",
   "private": true,
@@ -34,5 +35,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+    "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^15.4.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+>>>>>>> b21b9aa84c4dd5a033b03c522c688eed7d0529c0
   }
 }
